@@ -1,0 +1,14 @@
+﻿  lamb311.cpp
+D:\lab3\lamb311\lamb311.cpp(15,9): error C2146: syntax error: missing ';' before identifier 'pow'
+D:\lab3\lamb311\lamb311.cpp(15,43): warning C4552: '-': result of expression not used
+D:\lab3\lamb311\lamb311.cpp(17,36): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+D:\lab3\lamb311\lamb311.cpp(17,38): error C2143: syntax error: missing ')' before ';'
+D:\lab3\lamb311\lamb311.cpp(18,10): error C2059: syntax error: '>'
+D:\lab3\lamb311\lamb311.cpp(25,9): error C2146: syntax error: missing ';' before identifier 'pow'
+D:\lab3\lamb311\lamb311.cpp(25,43): warning C4552: '-': result of expression not used
+D:\lab3\lamb311\lamb311.cpp(26,2): error C2181: illegal else without matching if
+D:\lab3\lamb311\lamb311.cpp(30,8): error C2065: 'In': undeclared identifier
+D:\lab3\lamb311\lamb311.cpp(30,11): error C2146: syntax error: missing ';' before identifier 'abs'
+D:\lab3\lamb311\lamb311.cpp(30,15): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+D:\lab3\lamb311\lamb311.cpp(30,24): error C3688: invalid literal suffix 'x'; literal operator or literal operator template 'operator ""x' not found
+D:\lab3\lamb311\lamb311.cpp(30,31): error C2143: syntax error: missing ')' before ';'
